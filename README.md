@@ -1,2 +1,2 @@
 # Face_reco
-Face Recognization program with emotions
+Face reorganization  program with emotions
